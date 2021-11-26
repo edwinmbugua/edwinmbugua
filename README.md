@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @edwinmbugua a student for life and having fun while at it.
+- 👋 Hi, I’m @edwinmbugua.
 - 👀 I’m interested in using data to solve problems in the fintech and commerce industries.
 - 🌱 I’m currently learning Data Science and Machaine Learning 
 - 💞️ I’m looking to collaborate on  projects related to Machine Learning in fintech and commerce industries.
